@@ -62,3 +62,7 @@ table{
     filter: pink(3px);
     border: solid 2px rgb(15, 15, 15);
   }
+
+  .active {
+    background-color: #04AA6D;
+  }
